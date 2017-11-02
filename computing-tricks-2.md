@@ -81,7 +81,9 @@ There are (literally) thousands of command line utilities, and tons of online do
 
 ## Part 2: Become mildly paranoid
 
-The advice in this section is security-oriented. In computing, "security" means minimising the risk of waking up one morning and finding out that your identity and bank account were used to buy drugs, forged passports or weapons.
+The advice in this section is security-oriented. In computing, "security" means minimising the risk of waking up one morning and [finding out][identity-theft] that your identity and bank account were used to buy drugs, forged passports or weapons.
+
+[identity-theft]: http://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/
 
 ___Before taking any of the steps below,___ make sure that you always run up-to-date software provided by trustworthy developers, and that your data are regularly backed up. To reduce the [attack surface][attack-surface] on your computer, disable all "sharing" options in your system preferences, such as screen or file sharing.
 
