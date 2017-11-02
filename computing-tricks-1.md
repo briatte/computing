@@ -14,11 +14,12 @@ Rule #1 of computing is: never lose your data. It is frequently broken.
 
 ## 2. Control your screen luminosity
 
-> Install Caffeine ([Mac][caffeine-mac], [Win][caffeine-win]) to stop the screen from dimming.  
+> Install Caffeine ([Mac][caffeine-mac], [Win][caffeine-win], [Linux][caffeine-linux]) to stop the screen from dimming.  
 > Install [F.lux][flux] to vary screen luminosity through the day.
 
 [caffeine-mac]: http://lightheadsw.com/caffeine/
 [caffeine-win]: http://www.zhornsoftware.co.uk/caffeine/index.html
+[caffeine-linux]: https://github.com/kzar/caffeine
 [flux]: https://justgetflux.com/
 
 Your eyes and your sleep cycles will thank you.
