@@ -28,11 +28,12 @@ Your eyes and your sleep cycles will thank you.
 
 To use your computer quicker, learn the keyboard shortcuts of your applications, and install a launcher.
 
-> Install [Alfred][alfred] (Mac) or [something like it][alfred-alternatives].  On Window, [Wox][wox] looks like a good alternative.
+> Install [Alfred][alfred] (Mac).  On Windows, [Wox][wox] and [Hain][hain] look like good [alternatives][alfred-alternatives].
 
 [alfred]: https://www.alfredapp.com/
 [alfred-alternatives]: https://alternativeto.net/software/alfred/
 [wox]: http://www.getwox.com/
+[hain]: https://hainproject.github.io/hain/
 
 Alfred will give you quick application launching, search shortcuts (e.g. Google, Google Scholar, Wikipedia), local file search, music playback control, and a lot more stuff.
 
