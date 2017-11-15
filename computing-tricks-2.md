@@ -60,9 +60,10 @@ Your operating system silently performs many different maintenance operations, s
 
 The same program will provide you access to semi-hidden features of your operating system.
 
-___Note___ -- Many people seem to use [CCleaner][ccleaner] (also available for Windows) to perform some of the same tasks, but I have no idea of what it does exactly, and whether it can be trusted.
+___Note___ -- Many people seem to use [CCleaner][ccleaner] (also available for Windows) to perform some of the same tasks. CCleaner has been [compromised in the past][ccleaner-hijack]: it might, or might not, be safe to use, and I do not know what it does exactly.
 
 [ccleaner]: http://www.piriform.com/ccleaner
+[ccleaner-hijack]: https://www.wired.com/story/ccleaner-malware-targeted-tech-firms/
 
 ### 5. Automate what can be automated
 
