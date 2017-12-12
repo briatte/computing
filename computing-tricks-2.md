@@ -5,7 +5,7 @@
 
 This document is a companion to ["10 Computing Tips and Tricks for Students."][computing-tricks-1]
 
-[computing-tricks-1]: https://f.briatte.org/teaching/comp/computing-tricks-1.pdf
+[computing-tricks-1]: https://github.com/briatte/computing/blob/master/computing-tricks-1.pdf
 
 ___All software recommendations are for Mac,___ because this is what I know best and use most of the time. You can easily find alternatives and clones for Windows and/or Linux on [alternativeto.net][alternativeto].
 
