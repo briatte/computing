@@ -54,8 +54,9 @@ ___Essential security steps___ -- (1) Always keep your Web browser(s) up to date
 [opera]: http://www.opera.com/
 [https-everywhere]: https://www.eff.org/https-everywhere
 
-To enjoy a basic modicum of browsing privacy, you will also need extensions to block ads and trackers, such as [Decentraleyes][decentraleyes], [uBlock Origin][ublock-origin] and [Privacy Badger][privacy-badger], and to clean up after you, such as [History Limiter][history-limiter] and [Vanilla Cookie Manager][vanilla-cookie-manager] (both for Chrome only). For more suggestions, see the extensions listed [at privacytools.io][privacy-tools], as well as the rest of the advice at that website.
+To enjoy a basic modicum of browsing privacy, you will also need extensions to block ads and trackers, such as [Decentraleyes][decentraleyes], [uBlock Origin][ublock-origin] and [Privacy Badger][privacy-badger], and to clean up after you, such as [Don't add custom search engines][no-search-engines], [History Limiter][history-limiter] and [Vanilla Cookie Manager][vanilla-cookie-manager] (all for Chrome only). For more suggestions, see the extensions listed [at privacytools.io][privacy-tools], as well as the rest of the advice at that website.
 
+[no-search-engines]: https://chrome.google.com/webstore/detail/dont-add-custom-search-en/dnodlcololidkjgbpeoleabmkocdhacc
 [decentraleyes]: https://decentraleyes.org/
 [ublock-origin]: https://github.com/gorhill/uBlock
 [privacy-badger]: https://www.eff.org/privacybadger
