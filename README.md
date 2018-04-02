@@ -26,18 +26,24 @@ __(coming soon!)__
 __(coming soon!)__
 
 [ct0]: student-requirements.pdf
-[ct0-pdf]: https://cdn.rawgit.com/briatte/computing/64047f36/student-requirements.pdf
+[ct0-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/student-requirements.pdf
+
 [ct1]: computing-tricks-1.md
-[ct1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
+[ct1-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/computing-tricks-1.pdf
+
 [ct2]: computing-tricks-2.md
-[ct2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
+[ct2-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/computing-tricks-2.pdf
+
 [slow]: slow-computers.md
-[slow-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/slow-computers.pdf
+[slow-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/slow-computers.pdf
+
 [txt]: text-documents.md
-[txt-pdf]: https://cdn.rawgit.com/briatte/computing/cf94b41f/text-documents.pdf
+[txt-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/text-documents.pdf
 
 # Contact
 
-Comments and constructive recriminations are very welcome: [email me](mailto:f.briatte@gmail.com) [open an issue](https://github.com/briatte/computing/issues) on the repository.
+Comments and constructive recriminations are very welcome: 
+[email me](mailto:f.briatte@gmail.com) or
+[open an issue](https://github.com/briatte/computing/issues) on the repository.
 
 > Last update: April 2018.
