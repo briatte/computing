@@ -4,7 +4,7 @@ __An arrogant attempt at distilling computing wisdom__, a topic about which I kn
 
 ## Basics
 
-- [10 Computing Requirements for Students][ct0] 
+- __[10 Computing Requirements for Students][ct0]__ 
 ([PDF][ct0-pdf])
 - __[10 Computing Tips and Tricks for Students][ct1]__ 
 ([PDF][ct1-pdf])
