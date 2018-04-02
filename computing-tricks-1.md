@@ -3,6 +3,10 @@
 > _[François Briatte](mailto:f.briatte@gmail.com)_  
 > _\today_
 
+This document is part of the ["Computing Advice for Students"][computing] series.
+
+[computing]: https://github.com/briatte/computing
+
 ## 1. Backup your data at all times
 
 Rule #1 of computing is: never lose your data. It is frequently broken.

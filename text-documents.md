@@ -3,9 +3,9 @@
 > _[François Briatte](mailto:f.briatte@gmail.com)_  
 > _\today_
 
-This document is part of the ["Computing Tips and Tricks for Students"][computing-tricks] series.
+This document is part of the ["Computing Advice for Students"][computing] series.
 
-[computing-tricks]: https://github.com/briatte/computing
+[computing]: https://github.com/briatte/computing
 
 All requirements below are personal guidelines that apply to producing ___printable text documents___ on a computer. Your mileage may vary, and do not assume that I never fail those guidelines myself.
 

@@ -3,10 +3,9 @@
 > _[François Briatte](mailto:f.briatte@gmail.com)_  
 > _\today_
 
-This document is a companion to ["10 Computing Tips and Tricks for Students"][computing-tricks-1] and ["10 Additional Computing Tips and Tricks for Students"][computing-tricks-2].
+This document is part of the ["Computing Advice for Students"][computing] series.
 
-[computing-tricks-1]: https://github.com/briatte/computing/blob/master/computing-tricks-1.pdf
-[computing-tricks-2]: https://github.com/briatte/computing/blob/master/computing-tricks-2.pdf
+[computing]: https://github.com/briatte/computing
 
 The title is obviously tongue-in-cheek: the aim is not to make your computer actually slower, but to have you understand what, in your daily computing practice, might be slowing down your otherwise new, expensive, powerful etc. laptop.
 
