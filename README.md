@@ -36,6 +36,6 @@ __(coming soon!)__
 
 # Contact
 
-Comments and constructive recriminations are very welcome: please [email me](mailto:f.briatte@gmail.com) or [open an issue](https://github.com/briatte/computing/issues) on the GitHub repository.
+Comments and constructive recriminations are very welcome: [email me](mailto:f.briatte@gmail.com) [open an issue](https://github.com/briatte/computing/issues) on the repository.
 
 > Last update: April 2018.
