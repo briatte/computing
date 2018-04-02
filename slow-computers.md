@@ -43,7 +43,7 @@ Worse, some poorly designed programs are memory 'sinkholes' -- they 'leak' memor
 
 [apple-preview]: https://en.wikipedia.org/wiki/Apple_Preview
 
-___Note___ -- why is a program like Adobe Acrobat slow? Because it requires lots of memory to (1) constantly run an update program, and (2) offer tons of options that you will most likely never use. The same is true of both other examples above.
+___Note___ -- Why is a program like Adobe Acrobat slow? Because it requires lots of memory to (1) constantly run an update program, and (2) offer tons of options that you will most likely never use. The same is true of both other examples above.
 
 ### 3. Run useless crap
 
