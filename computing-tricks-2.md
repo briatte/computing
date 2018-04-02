@@ -12,7 +12,7 @@ ___All software recommendations are for Mac,___ because this is what I know best
 
 [alternativeto]: https://alternativeto.net/
 
-___All software has been tested on OS X 10.9 only,___ and might not work properly on other systems. If you are running any of the newer versions of macOS, there might be better software available than that recommended below.
+___All software has been tested on OS X 10.9 only,___ and might not work properly on other systems. If you are running any of the newer versions of macOS, there might be better software available than that recommended below.
 
 ## Part 1: Become mildly perfectionist
 
