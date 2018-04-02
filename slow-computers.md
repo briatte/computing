@@ -110,7 +110,9 @@ This, however, is no excuse to at least try being organised, hopefully without f
 Once you have set up a smarter-than-nothing system of filing your files, images, downloads etc. --- find the quickest way to access your files, which is likely to be through a launch utility.
 
 > __Use a 'launcher' utility to quickly open applications, files and folders.__  
-> Tip #3 of ["10 Computing Tips and Tricks for Students"][computing-tricks-1] contains some suggestions.
+> Tip #3 of ["10 Computing Tips and Tricks for Students"][ct1-pdf] contains some suggestions.
+
+[ct1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
 
 ### 7. Never, ever use keyboard shortcuts
 
