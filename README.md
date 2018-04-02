@@ -25,6 +25,8 @@ __(coming soon!)__
 - 10 Tips for Presenting Slides on Macs 
 __(coming soon!)__
 
+[ct0]: student-requirements.pdf
+[ct0-pdf]: https://cdn.rawgit.com/briatte/computing/64047f36/student-requirements.pdf
 [ct1]: computing-tricks-1.md
 [ct1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
 [ct2]: computing-tricks-2.md

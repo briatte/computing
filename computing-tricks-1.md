@@ -3,9 +3,11 @@
 > _[François Briatte](mailto:f.briatte@gmail.com)_  
 > _\today_
 
-This document is part of the ["Computing Advice for Students"][computing] series.
+This document is part of the ["Computing Advice for Students"][computing] series. It is meant to be read after its prequel, ["10 Computing Requirements for Students"][ct0-pdf] and before its sequel, ["10 Additional Computing Tips and Tricks for Students"][ct2-pdf].
 
 [computing]: https://github.com/briatte/computing
+[ct0-pdf]: https://cdn.rawgit.com/briatte/computing/64047f36/student-requirements.pdf
+[ct2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
 
 ## 1. Backup your data at all times
 
@@ -82,7 +84,7 @@ Your passwords do not protect you against network attacks: _never_ log on to a s
 
 The Web is full of things that you will want to go back to later on.
 
-> Either use your browser bookmarks intelligently, or use a bookmark service like [Pinboard][pinboard], which seriously rocks.
+> Either use your browser bookmarks intelligently, or use a bookmark service like [Pinboard][pinboard].
 
 [pinboard]: https://pinboard.in/
 
@@ -125,7 +127,7 @@ You can contribute to [Wikipedia][wikipedia] in any language that you know. You 
 
 ## 9. Don't be an idiot
 
-> Use your computer and online skills to help yourself and/or others, not to harm yourself and/or others.
+> Use computers and the Web to help, not to harm, yourself and/or others.
 
 Do not interpret online pseudo-anonymity as a right granted upon you to be a jerk.
 
