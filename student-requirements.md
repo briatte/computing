@@ -39,7 +39,7 @@ ___Note___ -- Politeness and correct language are not computing requirements, ju
 Most importantly, ___stay organised___ -- rename files to sensible names, and keep folder hierarchies to the simplest scheme that you can come up with.
 
 [perma.cc]: https://perma.cc/
-[save-it-offline]: http://www.saveitoffline.com/
+[saveitoffline]: http://www.saveitoffline.com/
 [wget]: https://www.gnu.org/software/wget/
 [jdownloader]: http://www.jdownloader.org/
 [youtube-dl]: https://rg3.github.io/youtube-dl/
