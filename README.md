@@ -22,8 +22,8 @@ __(coming soon!)__
 
 - __[10 Basic Requirements for Text Documents][txt]__ 
 ([PDF][txt-pdf])
-- 10 Tips for Presenting Slides on Macs 
-__(coming soon!)__
+- __[10 Tips for Presenting Slides on Macs][slides]__ 
+([PDF][slides-pdf])
 
 [ct0]: student-requirements.pdf
 [ct0-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/student-requirements.pdf
@@ -39,6 +39,9 @@ __(coming soon!)__
 
 [txt]: text-documents.md
 [txt-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/text-documents.pdf
+
+[slides]: slides-on-mac.md
+[slides-pdf]: https://cdn.rawgit.com/briatte/computing/5102dcb7/slides-on-macs.pdf
 
 # Contact
 
