@@ -24,6 +24,8 @@ __(coming soon!)__
 ([PDF][txt-pdf])
 - __[10 Tips for Presenting Slides on Macs][slides]__ 
 ([PDF][slides-pdf])
+- 10 Steps to Learn Statistical Computing 
+__(coming soon!)__
 
 [ct0]: student-requirements.pdf
 [ct0-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/student-requirements.pdf
