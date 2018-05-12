@@ -17,7 +17,7 @@ ___All software recommendations below are for Mac and have been tested on OS X 
 
 ## 1. Learn to write slides
 
-Several people have contributed [good advice][healy] for making slides: follow it, or become part of the [(serious) problem][tufte] that bad slides creates for audiences.
+Several people have contributed [good advice][healy] for making slides: follow it, or become part of the [(serious) problem][tufte] that [bad slides][nyt] create for audiences.
 
 Be aware that your audience will _never_ be able to understand:
 
@@ -28,6 +28,7 @@ Be aware that your audience will _never_ be able to understand:
 
 [healy]: https://kieranhealy.org/blog/archives/2018/03/24/making-slides/
 [tufte]: https://www.edwardtufte.com/tufte/books_pp
+[nyt]: https://www.nytimes.com/2010/04/27/world/27powerpoint.html
 [articles]: https://en.wikipedia.org/wiki/Article_(grammar)
 [headlinese]: https://en.wikipedia.org/wiki/Headlinese
 
