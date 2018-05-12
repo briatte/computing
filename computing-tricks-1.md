@@ -142,12 +142,13 @@ Do not send emails that look like they were written by a five-year-old.
 3. ???
 4. [P R O F I T](http://knowyourmeme.com/memes/profit)
 
-Step 3: install a plain text editor like [Atom][atom-editor], [Sublime Text][sublime-text] or [TextMate][textmate]; then, start learning and playing with languages like [HTML][html] by learning them from websites like [W3Schools][w3schools]; last, transition to learning a bit of [scripting][bash] and [text processing][regex], using [Stack Overflow][stack-overflow] to get help.
+Step 3: install a plain text editor like [Atom][atom-editor], [TextMate][textmate] or [VSCode][vscode]; then, start learning and playing with languages like [HTML][html] and [CSS][css] with websites like [W3Schools][w3schools]; last, transition to learning a bit of [scripting][bash] and text processing with [regular expressions][regex], using [Stack Overflow][stack-overflow] to get help.
 
 [atom-editor]: https://atom.io/
-[sublime-text]: https://www.sublimetext.com/
 [textmate]: https://github.com/textmate/textmate
+[vscode]: https://code.visualstudio.com/
 [html]: https://en.wikipedia.org/wiki/HTML
+[css]: https://en.wikipedia.org/wiki/CSS
 [w3schools]: https://www.w3schools.com/
 [bash]: http://shop.oreilly.com/product/0636920058304.do
 [regex]: https://github.com/zeeshanu/learn-regex
