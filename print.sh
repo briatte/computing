@@ -15,7 +15,7 @@ brew ls --versions pandoc
 # https://github.com/jgm/pandoc-templates/blob/master/default.latex
 
 pandoc $SOURCE -s         \
-  --latex-engine=pdflatex \
+  --pdf-engine=pdflatex \
   -V papersize:a4paper    \
   -V geometry:left=3cm,right=3cm,top=3.5cm,bottom=3.5cm \
   -V colorlinks:true      \
