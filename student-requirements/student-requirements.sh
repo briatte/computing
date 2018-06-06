@@ -8,4 +8,4 @@ SOURCE=$THIS_DIR/$BASENAME.md
 TARGET=$THIS_DIR/$BASENAME.pdf
 TEXSRC=$THIS_DIR/$BASENAME.tex
 
-. print.sh
+. ../print.sh

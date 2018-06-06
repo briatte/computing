@@ -24,6 +24,8 @@ __(coming soon!)__
 ([PDF][txt-pdf])
 - __[10 Tips for Presenting Slides on Macs][slides]__ 
 ([PDF][slides-pdf])
+- 10 Tips for Handling Research Material 
+__(coming soon!)__
 - 10 Steps to Learn Statistical Computing 
 __(coming soon!)__
 
@@ -51,4 +53,4 @@ Comments and constructive recriminations are very welcome:
 [email me](mailto:f.briatte@gmail.com) or
 [open an issue](https://github.com/briatte/computing/issues) on the repository.
 
-> Last update: April 2018.
+> Last update: May 2018.
