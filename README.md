@@ -2,7 +2,7 @@
 
 __An arrogant attempt at distilling computing wisdom__, a topic about which I know almost nothing.
 
-Target audience: __social science undergraduate students__ with little-to-none computer skills.
+Target audience: __social science undergraduate students__.
 
 ## Basics
 
@@ -18,7 +18,9 @@ Target audience: __social science undergraduate students__ with little-to-none c
 - __[10 Ways to Make A Computer Painfully Slow and Unusable][slow]__ 
 ([PDF][slow-pdf])
 - 10 Ways to Make Web Browsing Faster and Safer 
-__(coming soon!)__
+__(coming soon)__
+- 10 Ways to Make Computing More Secure 
+__(coming soon)__
 
 ## Bonuses
 
@@ -27,26 +29,26 @@ __(coming soon!)__
 - __[10 Tips for Presenting Slides on Macs][slides]__ 
 ([PDF][slides-pdf])
 - 10 Tips for Handling Research Material 
-__(coming soon!)__
+__(coming soon)__
 - 10 Steps to Learn Statistical Computing 
-__(coming soon!)__
+__(coming soon)__
 
-[ct0]: student-requirements.pdf
+[ct0]: 01-student-requirements/student-requirements.md
 [ct0-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/student-requirements.pdf
 
-[ct1]: computing-tricks-1.md
+[ct1]: 02-computing-tricks-1/computing-tricks-1.md
 [ct1-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/computing-tricks-1.pdf
 
-[ct2]: computing-tricks-2.md
+[ct2]: 03-computing-tricks-2/computing-tricks-2.md
 [ct2-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/computing-tricks-2.pdf
 
-[slow]: slow-computers.md
+[slow]: 04-slow-computers/slow-computers.md
 [slow-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/slow-computers.pdf
 
-[txt]: text-documents.md
+[txt]: 07-text-documents/text-documents.md
 [txt-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/text-documents.pdf
 
-[slides]: slides-on-mac.md
+[slides]: 08-slides-on-macs/slides-on-macs.md
 [slides-pdf]: https://cdn.rawgit.com/briatte/computing/5102dcb7/slides-on-macs.pdf
 
 # Contact
@@ -55,4 +57,4 @@ Comments and constructive recriminations are very welcome:
 [email me](mailto:f.briatte@gmail.com) or
 [open an issue](https://github.com/briatte/computing/issues) on the repository.
 
-> Last update: May 2018.
+> Last update: June 2018.
