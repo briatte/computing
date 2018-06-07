@@ -3,11 +3,11 @@
 > _[François Briatte](mailto:f.briatte@gmail.com)_  
 > _\today_
 
-This document is part of the ["Computing Advice for Students"][computing] series. It is meant to be read after its prequel, ["10 Computing Requirements for Students"][ct0-pdf] and before its sequel, ["10 Additional Computing Tips and Tricks for Students"][ct2-pdf].
+This document is part of the ["Computing Advice for Students"][computing] series. It is meant to be read after its prequel, ["10 Computing Requirements for Students"][student-requirements-pdf] and before its sequel, ["10 Additional Computing Tips and Tricks for Students"][computing-tricks-2-pdf].
 
 [computing]: https://github.com/briatte/computing
-[ct0-pdf]: https://cdn.rawgit.com/briatte/computing/64047f36/student-requirements.pdf
-[ct2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
+[student-requirements-pdf]: https://cdn.rawgit.com/briatte/computing/64047f36/student-requirements.pdf
+[computing-tricks-2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
 
 ## 1. Backup your data at all times
 

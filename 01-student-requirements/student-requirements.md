@@ -3,11 +3,11 @@
 > _[François Briatte](mailto:f.briatte@gmail.com)_  
 > _\today_
 
-This document is part of the ["Computing Advice for Students"][computing] series. It is a prequel to ["10 Computing Tips and Tricks for Students"][ct1-pdf] and ["10 Additional Computing Tips and Tricks for Students"][ct2-pdf], and contains a few recommendations that are not repeated in those two documents.
+This document is part of the ["Computing Advice for Students"][computing] series. It is a prequel to ["10 Computing Tips and Tricks for Students"][computing-tricks-1-pdf] and ["10 Additional Computing Tips and Tricks for Students"][computing-tricks-2-pdf], and contains a few recommendations that are not repeated in those two documents.
 
 [computing]: https://github.com/briatte/computing
-[ct1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
-[ct2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
+[computing-tricks-1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
+[computing-tricks-2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
 
 ## Part 1: Computing
 
@@ -46,9 +46,9 @@ Most importantly, ___stay organised___ -- rename files to sensible names, and ke
 
 ### 4. Keeping one's laptop fast enough
 
-Read __["10 Ways to Make A Computer Painfully Slow and Unusable"][slow-pdf]__ after you are done reading the main documents of this series.
+Read __["10 Ways to Make A Computer Painfully Slow and Unusable"][slow-computers-pdf]__ after you are done reading the main documents of this series.
 
-[slow-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/slow-computers.pdf
+[slow-computers-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/slow-computers.pdf
 
 ### 5. Saving laptop battery life
 
@@ -95,7 +95,7 @@ ___Important___ – remember the academic penalties for plagiarism, including 'n
 - Learn to use __quick search__ (e.g. [Spotlight][spotlight] on Mac)
 - Learn to __search by creation/modification date__ or by file format
 
-Tip #3 of ["10 Computing Tips and Tricks for Students"][ct1-pdf] will tell you about 'launcher' programs that vastly improve searching for disk files or looking for information online.
+Tip #3 of ["10 Computing Tips and Tricks for Students"][computing-tricks-1-pdf] will tell you about 'launcher' programs that vastly improve searching for disk files or looking for information online.
 
 [spotlight]: https://en.wikipedia.org/wiki/Spotlight_(software)
 
@@ -121,4 +121,4 @@ Last, are you sure that the last course reading that you decided to skip is as u
 
 * * *
 
-Many of the points listed in this overview are covered in further documents of this series. You should now head to ["10 Computing Tips and Tricks for Students"][ct1-pdf] for some more focused advice.
+Many of the points listed in this overview are covered in further documents of this series. You should now head to ["10 Computing Tips and Tricks for Students"][computing-tricks-1-pdf] for some more focused advice.

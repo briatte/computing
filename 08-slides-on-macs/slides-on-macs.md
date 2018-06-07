@@ -121,9 +121,9 @@ ___Note___ – Macs also have something called [Mission Control][mission-control
 
 [mission-control]: https://en.wikipedia.org/wiki/Mission_Control_(macOS)
 
-___Related___ – If your presentation involves showing multiple windows side-by-side, use software like [Spectacle][spectacle] to manage the location of your windows on screen. Using Spectacle is also useful to maximise windows, since on recent Macs, the (green) window maximisation item of your windows will produce full-screen windows instead of maximised window. Spectacle is mentioned in Tip #2 of ["10 Additional Computing Tips and Tricks for Students"][ct2-pdf].
+___Related___ – If your presentation involves showing multiple windows side-by-side, use software like [Spectacle][spectacle] to manage the location of your windows on screen. Using Spectacle is also useful to maximise windows, since on recent Macs, the (green) window maximisation item of your windows will produce full-screen windows instead of maximised window. Spectacle is mentioned in Tip #2 of ["10 Additional Computing Tips and Tricks for Students"][computing-tricks-2-pdf].
 
-[ct2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
+[computing-tricks-2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
 
 [spectacle]: https://www.spectacleapp.com/
 
@@ -131,10 +131,10 @@ ___Related___ – If your presentation involves showing multiple windows side-by
 
 If you do not have access to a board on which to write any information that is not in your slides, software like [Alfred][alfred] will be helpful to show large text to your audience.
 
-Tip #3 of ["10 Computing Tips and Tricks for Students"][ct1-pdf] will tell you about 'launcher' programs like Alfred, which also vastly improve searching for disk files or looking for information online.
+Tip #3 of ["10 Computing Tips and Tricks for Students"][computing-tricks-1-pdf] will tell you about 'launcher' programs like Alfred, which also vastly improve searching for disk files or looking for information online.
 
 [alfred]: https://www.alfredapp.com/
-[ct1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
+[computing-tricks-1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
 
 \newpage\appendix
 
