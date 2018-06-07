@@ -69,7 +69,7 @@ To enjoy a basic modicum of browsing privacy, you will also need extensions to b
 
 To keep your data secure, use different, complex passwords for every service that requires one. Complexity means [long, random passphrases][xkcd-passphrase].
 
-> Install something like [Dashlane][dashlane] to store your passwords.
+> Install something like [Dashlane][dashlane] to store your passwords in an encrypted file on your hard drive.
 
 [dashlane]: https://www.dashlane.com/
 [xkcd-passphrase]: https://xkcd.com/936/
