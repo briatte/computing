@@ -13,10 +13,9 @@ This document is part of the ["Computing Advice for Students"][computing] series
 
 Rule #1 of computing is: never lose your data. It is frequently broken.
 
-> Use [Google Drive][google-drive], [DropBox][dropbox] or anything like that.
+> Use [Google Drive][google-drive] to store your (non-sensitive) data.
 
 [google-drive]: https://www.google.com/drive/
-[dropbox]: https://www.dropbox.com/
 
 ## 2. Control your screen luminosity
 
