@@ -1,6 +1,8 @@
+# Contents
+
 __An arrogant attempt at distilling computing wisdom__, a topic about which I know almost nothing.
 
-# Contents
+Target audience: __social science undergraduate students__ with little-to-none computer skills.
 
 ## Basics
 
