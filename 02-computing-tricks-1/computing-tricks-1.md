@@ -45,11 +45,7 @@ Alfred will give you quick application launching, search shortcuts (e.g. Google,
 
 ## 4. Use a proper Web browser
 
-> Use [Google Chrome][chrome] or [Mozilla Firefox][firefox] to browse the Web. [Brave][brave] and [Opera][opera] are also fine.  
-> Apple Safari and Microsoft Internet Explorer might not be as secure.
-
-<!-- Safari extensions:
-     https://github.com/learn-anything/safari-extensions -->
+> Use [Google Chrome][chrome]. Any other browser (e.g. [Mozilla Firefox][firefox], [Apple Safari][safari] or Microsoft Internet Explorer) is unlikely to be as secure as up-to-date Chrome.
 
 ___Essential security steps___ -- (1) Always keep your Web browser(s) up to date. (2) Install the [HTTPS Everywhere][https-everywhere] extension. (3) Disable or uninstall Adobe Flash (find instructions online).
 
@@ -57,7 +53,6 @@ ___Essential security steps___ -- (1) Always keep your Web browser(s) up to date
 [chrome]: https://www.google.com/chrome/
 [firefox]: https://www.mozilla.org/en-US/firefox/
 [safari]: https://www.apple.com/safari/
-[opera]: http://www.opera.com/
 [https-everywhere]: https://www.eff.org/https-everywhere
 
 To enjoy a basic modicum of browsing privacy, you will also need extensions to block ads and trackers, such as [Decentraleyes][decentraleyes], [uBlock Origin][ublock-origin] and [Privacy Badger][privacy-badger], and to clean up after you, such as [Don't add custom search engines][no-search-engines], [History Limiter][history-limiter] and [Vanilla Cookie Manager][vanilla-cookie-manager] (all for Chrome only). For more suggestions, see the extensions listed [at privacytools.io][privacy-tools], as well as the rest of the advice at that website.
