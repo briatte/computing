@@ -87,7 +87,7 @@ The Web is full of things that you will want to go back to later on.
 
 Among the many Web technologies that are currently disappearing, one does not deserve to die. That technology is called [RSS][rss]. Its twin technology is called [Atom][atom].
 
-> Use a service like [Digg Reader][digg-reader] or [Feedly][feedly] to subscribe to interesting websites via RSS.
+> Use [Feedly][feedly] to subscribe to interesting websites via RSS.
 
 Subscribing to websites via RSS feeds will incite you to read from a diverse array of sources in many different languages. For instance, if you are studying political science, you might consider subscribing to blogs like _[The Monkey Cage][monkey-cage]_ ([RSS][monkey-cage-rss]), [Josep Colomer's blog][josep-colomer] ([RSS][josep-colomer-rss]), *[Presidential Power][presidential-power]* ([RSS][presidential-power-rss]), and the [Project on Middle East Political Science][pomeps] ([RSS][pomeps-rss]).
 
