@@ -67,11 +67,12 @@ To enjoy a basic modicum of browsing privacy, you will also need extensions to b
 
 ## 5. Use a password manager
 
-To keep your data secure, use different, complex passwords for every service that requires one. Complexity means long, random passphrases.
+To keep your data secure, use different, complex passwords for every service that requires one. Complexity means [long, random passphrases][xkcd-passphrase].
 
 > Install something like [Dashlane][dashlane] to store your passwords.
 
 [dashlane]: https://www.dashlane.com/
+[xkcd-passphrase]: https://xkcd.com/936/
 
 Your passwords do not protect you against network attacks: _never_ log on to a sensitive website, such as one that stores your credit card details, from an insecure connexion like airport or hotel Wi-Fi.
 
