@@ -1,7 +1,5 @@
 #!/bin/bash
 
-SKIP_OPENING_TARGETS="true"
-
 for i in `ls -d */ | grep '^\d\{2\}-'`
 do
   cd $i

@@ -37,9 +37,7 @@ $pdf_mode = 1;' >> ~/.latexmkrc
 latexmk -cd -quiet -f -pdf $TEXSRC
 latexmk -c # clean up behind latexmk
 
-if [ "$SKIP_OPENING_TARGETS" != "true" ]; then
-  open $TARGET # FINISH LINE -- open .pdf
-fi
+open $TARGET # FINISH LINE -- open .pdf
 
 # to compile with latexmk
 # -----------------------
