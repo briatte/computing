@@ -112,7 +112,7 @@ Once you have set up a smarter-than-nothing system of filing your files, images,
 > __Use a 'launcher' utility to quickly open applications, files and folders.__  
 > Tip #3 of ["10 Computing Tips and Tricks for Students"][computing-tricks-1-pdf] contains some suggestions.
 
-[computing-tricks-1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
+[computing-tricks-1-pdf]: https://github.com/briatte/computing/blob/master/02-computing-tricks-1/computing-tricks-1.pdf
 
 ### 7. Never, ever use keyboard shortcuts
 

@@ -6,8 +6,8 @@
 This document is part of the ["Computing Advice for Students"][computing] series. It is meant to be read after its prequel, ["10 Computing Requirements for Students"][student-requirements-pdf] and before its sequel, ["10 Additional Computing Tips and Tricks for Students"][computing-tricks-2-pdf].
 
 [computing]: https://github.com/briatte/computing
-[student-requirements-pdf]: https://cdn.rawgit.com/briatte/computing/64047f36/student-requirements.pdf
-[computing-tricks-2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
+[student-requirements-pdf]: https://github.com/briatte/computing/blob/master/01-student-requirements/student-requirements.pdf
+[computing-tricks-2-pdf]: https://github.com/briatte/computing/blob/master/03-computing-tricks-2/computing-tricks-2.pdf
 
 ## 1. Backup your data at all times
 
@@ -46,23 +46,17 @@ Alfred will give you quick application launching, search shortcuts (e.g. Google,
 
 > Use [Google Chrome][chrome]. Any other browser (e.g. [Mozilla Firefox][firefox], [Apple Safari][safari] or Microsoft Internet Explorer) is unlikely to be as secure as up-to-date Chrome.
 
-___Essential security steps___ -- (1) Always keep your Web browser(s) up to date. (2) Install the [HTTPS Everywhere][https-everywhere] extension. (3) Disable or uninstall Adobe Flash (find instructions online).
+___Essential security steps___ -- (1) Always keep your Web browser(s) up to date. (2) Install the [HTTPS Everywhere][https-everywhere] and [uBlock Origin][ublock-origin] extensions. (3) Go to [`chrome://settings/content/flash`](chrome://settings/content/flash) from within Chrome and make sure that Flash is disabled.
 
-[brave]: https://brave.com/
 [chrome]: https://www.google.com/chrome/
 [firefox]: https://www.mozilla.org/en-US/firefox/
 [safari]: https://www.apple.com/safari/
 [https-everywhere]: https://www.eff.org/https-everywhere
-
-To enjoy a basic modicum of browsing privacy, you will also need extensions to block ads and trackers, such as [Decentraleyes][decentraleyes], [uBlock Origin][ublock-origin] and [Privacy Badger][privacy-badger], and to clean up after you, such as [Don't add custom search engines][no-search-engines], [History Limiter][history-limiter] and [Vanilla Cookie Manager][vanilla-cookie-manager] (all for Chrome only). For more suggestions, see the extensions listed [at privacytools.io][privacy-tools], as well as the rest of the advice at that website.
-
-[no-search-engines]: https://chrome.google.com/webstore/detail/dont-add-custom-search-en/dnodlcololidkjgbpeoleabmkocdhacc
-[decentraleyes]: https://decentraleyes.org/
 [ublock-origin]: https://github.com/gorhill/uBlock
-[privacy-badger]: https://www.eff.org/privacybadger
-[history-limiter]: https://chrome.google.com/webstore/detail/history-limiter-custom/ibpfkplbhnbiklpjacjbaelahebmbmpp
-[vanilla-cookie-manager]: https://github.com/laktak/vanilla-chrome
-[privacy-tools]: https://www.privacytools.io/#addons
+
+To enjoy a basic modicum of browsing privacy, you will also need extensions to block ads and trackers, and to 'clean up' your Web sessions. For instructions on how to do so and for further suggestions, see "[10 Ways to Make Web Browsing Faster and Safer][web-browsers-pdf]."
+
+[web-browsers-pdf]: https://github.com/briatte/computing/blob/master/05-web-browsers/web-browsers.pdf
 
 ## 5. Use a password manager
 

@@ -6,8 +6,8 @@
 This document is part of the ["Computing Advice for Students"][computing] series. It is a prequel to ["10 Computing Tips and Tricks for Students"][computing-tricks-1-pdf] and ["10 Additional Computing Tips and Tricks for Students"][computing-tricks-2-pdf], and contains a few recommendations that are not repeated in those two documents.
 
 [computing]: https://github.com/briatte/computing
-[computing-tricks-1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
-[computing-tricks-2-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-2.pdf
+[computing-tricks-1-pdf]: https://github.com/briatte/computing/blob/master/02-computing-tricks-1/computing-tricks-1.pdf
+[computing-tricks-2-pdf]: https://github.com/briatte/computing/blob/master/03-computing-tricks-2/computing-tricks-2.pdf
 
 ## Part 1: Computing
 
@@ -48,7 +48,7 @@ Most importantly, ___stay organised___ -- rename files to sensible names, and ke
 
 Read __["10 Ways to Make A Computer Painfully Slow and Unusable"][slow-computers-pdf]__ after you are done reading the main documents of this series.
 
-[slow-computers-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/slow-computers.pdf
+[slow-computers-pdf]: https://github.com/briatte/computing/blob/master/02-computing-tricks-1/computing-tricks-1.pdf
 
 ### 5. Saving laptop battery life
 

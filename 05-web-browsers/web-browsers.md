@@ -6,7 +6,7 @@
 This document is part of the ["Computing Advice for Students"][computing] series. Specifically, it expands Tip #4 of ["10 Computing Tips and Tricks for Students"][computing-tricks-1-pdf] ("Use a proper Web browser").
 
 [computing]: https://github.com/briatte/computing
-[computing-tricks-1-pdf]: https://cdn.rawgit.com/briatte/computing/85f32dec/computing-tricks-1.pdf
+[computing-tricks-1-pdf]: https://github.com/briatte/computing/blob/master/02-computing-tricks-1/computing-tricks-1.pdf
 
 ___Note___ -- Since we start with security and privacy, an important thing to know is that using a secure browser on an _insecure_ network makes you only marginally less vulnerable to attacks.
 
