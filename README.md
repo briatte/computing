@@ -6,26 +6,26 @@ Target audience: __social science undergraduate students__.
 
 ## Basics
 
-- __[10 Computing Requirements for Students][ct0]__ 
-([PDF][ct0-pdf])
-- __[10 Computing Tips and Tricks for Students][ct1]__ 
-([PDF][ct1-pdf])
-- __[10 Additional Computing Tips and Tricks for Students][ct2]__ 
-([PDF][ct2-pdf])
+- __[10 Computing Requirements for Students][student-requirements]__ 
+([PDF][student-requirements-pdf])
+- __[10 Computing Tips and Tricks for Students][computing-tricks-1]__ 
+([PDF][computing-tricks-1-pdf])
+- __[10 Additional Computing Tips and Tricks for Students][computing-tricks-2]__ 
+([PDF][computing-tricks-2-pdf])
 
 ## Ten Ways
 
-- __[10 Ways to Make A Computer Painfully Slow and Unusable][slow]__ 
-([PDF][slow-pdf])
-- 10 Ways to Make Web Browsing Faster and Safer 
-__(coming soon)__
+- __[10 Ways to Make A Computer Painfully Slow and Unusable][slow-computers]__ 
+([PDF][slow-computers-pdf])
+- __[10 Ways to Make Web Browsing Faster and Safer][web-browsers]__ 
+([PDF][web-browsers-pdf])
 - 10 Ways to Make Computing More Secure 
 __(coming soon)__
 
 ## Bonuses
 
-- __[10 Basic Requirements for Text Documents][txt]__ 
-([PDF][txt-pdf])
+- __[10 Basic Requirements for Text Documents][text]__ 
+([PDF][text-pdf])
 - __[10 Tips for Presenting Slides on Macs][slides]__ 
 ([PDF][slides-pdf])
 - 10 Tips for Handling Research Material 
@@ -33,23 +33,26 @@ __(coming soon)__
 - 10 Steps to Learn Statistical Computing 
 __(coming soon)__
 
-[ct0]: 01-student-requirements/student-requirements.md
-[ct0-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/student-requirements.pdf
+[student-requirements]: 01-student-requirements/student-requirements.md
+[student-requirements-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/01-student-requirements/student-requirements.pdf
 
-[ct1]: 02-computing-tricks-1/computing-tricks-1.md
-[ct1-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/computing-tricks-1.pdf
+[computing-tricks-1]: 02-computing-tricks-1/computing-tricks-1.md
+[computing-tricks-1-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/02-computing-tricks-1/computing-tricks-1.pdf
 
-[ct2]: 03-computing-tricks-2/computing-tricks-2.md
-[ct2-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/computing-tricks-2.pdf
+[computing-tricks-2]: 03-computing-tricks-2/computing-tricks-2.md
+[computing-tricks-2-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/03-computing-tricks-2/computing-tricks-2.pdf
 
-[slow]: 04-slow-computers/slow-computers.md
-[slow-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/slow-computers.pdf
+[slow-computers]: 04-slow-computers/slow-computers.md
+[slow-computers-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/04-slow-computers/slow-computers.pdf
 
-[txt]: 07-text-documents/text-documents.md
-[txt-pdf]: https://cdn.rawgit.com/briatte/computing/08276046/text-documents.pdf
+[web-browsers]: 05-web-browsers/web-browsers.md
+[web-browsers-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/05-web-browsers/web-browsers.pdf
+
+[text]: 07-text-documents/text-documents.md
+[text-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/07-text-documents/text-documents.pdf
 
 [slides]: 08-slides-on-macs/slides-on-macs.md
-[slides-pdf]: https://cdn.rawgit.com/briatte/computing/5102dcb7/slides-on-macs.pdf
+[slides-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/08-slides-on-macs/slides-on-macs.pdf
 
 # Contact
 
