@@ -19,8 +19,8 @@ Target audience: __social science undergraduate students__.
 ([PDF][slow-computers-pdf])
 - __[10 Ways to Make Web Browsing Faster and Safer][web-browsers]__ 
 ([PDF][web-browsers-pdf])
-- 10 Ways to Make Computing More Secure 
-__(coming soon)__
+- __[10 Ways to Make Computing More Secure][security]__ 
+([PDF][security-pdf])
 
 ## Bonuses
 
@@ -34,25 +34,28 @@ __(coming soon)__
 __(coming soon)__
 
 [student-requirements]: 01-student-requirements/student-requirements.md
-[student-requirements-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/01-student-requirements/student-requirements.pdf
+[student-requirements-pdf]: https://cdn.rawgit.com/briatte/computing/088de66a/01-student-requirements/student-requirements.pdf
 
 [computing-tricks-1]: 02-computing-tricks-1/computing-tricks-1.md
-[computing-tricks-1-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/02-computing-tricks-1/computing-tricks-1.pdf
+[computing-tricks-1-pdf]: https://cdn.rawgit.com/briatte/computing/088de66a/02-computing-tricks-1/computing-tricks-1.pdf
 
 [computing-tricks-2]: 03-computing-tricks-2/computing-tricks-2.md
-[computing-tricks-2-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/03-computing-tricks-2/computing-tricks-2.pdf
+[computing-tricks-2-pdf]: https://cdn.rawgit.com/briatte/computing/088de66a/03-computing-tricks-2/computing-tricks-2.pdf
 
 [slow-computers]: 04-slow-computers/slow-computers.md
-[slow-computers-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/04-slow-computers/slow-computers.pdf
+[slow-computers-pdf]: https://cdn.rawgit.com/briatte/computing/088de66a/04-slow-computers/slow-computers.pdf
 
 [web-browsers]: 05-web-browsers/web-browsers.md
-[web-browsers-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/05-web-browsers/web-browsers.pdf
+[web-browsers-pdf]: https://cdn.rawgit.com/briatte/computing/088de66a/05-web-browsers/web-browsers.pdf
+
+[security]: 06-security/security.md
+[security-pdf]: https://cdn.rawgit.com/briatte/computing/088de66a/06-security/security.pdf
 
 [text]: 07-text-documents/text-documents.md
-[text-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/07-text-documents/text-documents.pdf
+[text-pdf]: https://cdn.rawgit.com/briatte/computing/088de66a/07-text-documents/text-documents.pdf
 
 [slides]: 08-slides-on-macs/slides-on-macs.md
-[slides-pdf]: https://cdn.rawgit.com/briatte/computing/6489b8a5/08-slides-on-macs/slides-on-macs.pdf
+[slides-pdf]: https://cdn.rawgit.com/briatte/computing/088de66a/08-slides-on-macs/slides-on-macs.pdf
 
 # Contact
 
