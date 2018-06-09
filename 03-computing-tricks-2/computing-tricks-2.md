@@ -168,7 +168,7 @@ It is highly likely that your current email provider (e.g. Google) does not let 
 
 * * *
 
-___Final note___ -- Using secure communications does not make you more anonymous online (quite the contrary), and none of the tips and tricks above will protect you against a skilled attacker or against other security vulnerabilities, such as [phishing attacks][phishing-attacks]. Running antivirus and other computer security software might help, but [understanding existing threats][threat-models] and reducing your [attack surface][attack-surface] are essential.
+___Final note___ -- Using secure communications does not make you more anonymous online (quite the contrary), and none of the tips and tricks above will protect you against a skilled attacker or against other security vulnerabilities, such as [phishing attacks][phishing-attacks]. Some of the tips above might help, but [understanding existing threats][threat-models] and reducing your [attack surface][attack-surface] are essential.
 
 [phishing-attacks]: https://ssd.eff.org/en/module/how-avoid-phishing-attacks
 [threat-models]: https://ssd.eff.org/en/glossary/threat-model
