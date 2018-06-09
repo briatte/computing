@@ -87,7 +87,6 @@ Subscribing to websites via RSS feeds will incite you to read from a diverse arr
 
 [rss]: https://en.wikipedia.org/wiki/RSS
 [atom]: https://en.wikipedia.org/wiki/Atom_(standard)
-[digg-reader]: https://digg.com/reader
 [feedly]: https://feedly.com/
 [monkey-cage]: https://www.washingtonpost.com/news/monkey-cage/
 [monkey-cage-rss]: http://feeds.washingtonpost.com/rss/rss_monkey-cage
