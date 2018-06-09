@@ -16,7 +16,7 @@ ___All software has been tested on OS X 10.9 only,___ and might not work proper
 
 ## Part 1: Become mildly perfectionist
 
-The advice in this section is productivity-oriented. In computing, "productivity" means doing things quicker, and possibly better. Very often, it involves keeping your hands on the keyboard, rather than having to click on a million different buttons.
+The advice in this section is productivity-oriented. In computing, 'productivity' means doing things quicker, and possibly better. Very often, it involves keeping your hands on the keyboard, rather than having to click on a million different buttons.
 
 ### 1. Use a keyboard expander
 
@@ -83,11 +83,11 @@ There are (literally) thousands of command line utilities, and tons of online do
 
 ## Part 2: Become mildly paranoid
 
-The advice in this section is security-oriented. In computing, "security" means minimising the risk of waking up one morning and [finding out][identity-theft] that your identity and bank account were used to buy drugs, forged passports or weapons.
+The advice in this section is security-oriented. In computing, 'security' means minimising the risk of waking up one morning and [finding out][identity-theft] that your identity and bank account were used to buy drugs, forged passports or weapons.
 
 [identity-theft]: http://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/
 
-___Before taking any of the steps below,___ make sure that you always run up-to-date software provided by trustworthy developers, and that your data are regularly backed up. To reduce the [attack surface][attack-surface] on your computer, disable all "sharing" options in your system preferences, such as screen or file sharing.
+___Before taking any of the steps below,___ make sure that you always run up-to-date software provided by trustworthy developers, and that your data are regularly backed up. To reduce the [attack surface][attack-surface] on your computer, disable all 'sharing' options in your system preferences, such as screen or file sharing.
 
 [attack-surface]: https://en.wikipedia.org/wiki/Attack_surface
 
@@ -136,7 +136,7 @@ To get an idea at what your network traffic looks like and how busy it is, run [
 
 ### 9. Use a VPN
 
-A VPN caries all your Internet traffic through an encrypted "tunnel" that makes it difficult to identify where you are and what you are doing online for anyone but yourself _and_ the VPN provider. It is commonly used as a protection against Internet Service Providers and governments (yet see note).
+A VPN carries all your Internet traffic through an encrypted 'tunnel' that makes it difficult to identify where you are and what you are doing online for anyone but yourself _and_ the VPN provider. It is commonly used as a protection against Internet Service Providers and governments (yet see note).
 
 > Buy a VPN subscription from a trusted provider, such as [cryptostorm][cryptostorm].
 
