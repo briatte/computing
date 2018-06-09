@@ -87,7 +87,7 @@ The advice in this section is security-oriented. In computing, 'security' means 
 
 [identity-theft]: http://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/
 
-___Before taking any of the steps below,___ make sure that you always run up-to-date software provided by trustworthy developers, and that your data are regularly backed up. To reduce the [attack surface][attack-surface] on your computer, disable all 'sharing' options in your system preferences, such as screen or file sharing.
+___Before taking any of the steps below,___ make sure that you always run up-to-date software provided by trustworthy developers, and that your data are regularly backed up. To reduce the [attack surface][attack-surface] on your computer, disable all 'sharing' options in your system preferences, such as screen or file sharing, and make sure that you know what software runs when you start up your computer.
 
 [attack-surface]: https://en.wikipedia.org/wiki/Attack_surface
 
