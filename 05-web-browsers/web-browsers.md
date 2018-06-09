@@ -70,8 +70,8 @@ The most efficient blocker is [uBlock Origin][ublock-origin]. If you are using a
 
 On top of that, you might also want to consider adding:
 
-- [Privacy Badger][privacy-badger], to block trackers that uBlock might have missed
-- [Decentraleyes][decentraleyes], to block tracking via [content delivery networks][cdn]
+- [Privacy Badger][privacy-badger], to block trackers that uBlock might have missed.
+- [Decentraleyes][decentraleyes], to block tracking via [content delivery networks][cdn].
 
 [privacy-badger]: https://www.eff.org/privacybadger
 [privacy-badger-source]: https://github.com/EFForg/privacybadger
@@ -102,10 +102,10 @@ ___Note___ -- Limiting cookies makes you less trackable and prevents some securi
 
 Your browser works with tabs, which you can easily navigate through keyboard shortcuts. Pinning some of your browser tabs will help organising your work, and saving large collections of opened tabs helps save memory and segment your Web sessions into shorter periods.
 
-Two recommendable extensions to handle tabs are
+Two recommendable extensions to handle tabs are:
 
-- [OneTab][onetab], to save all opened browser tabs for later use
-- [Tab Pinner][tab-pinner], to pin or unpin a tab via a keyboard shortcut
+- [OneTab][onetab], to save all opened browser tabs for later use.
+- [Tab Pinner][tab-pinner], to pin or unpin a tab via a keyboard shortcut.
 
 [onetab]: https://www.one-tab.com/
 [tab-pinner]: https://chrome.google.com/webstore/detail/tab-pinner-keyboard-short/mbcjcnomlakhkechnbhmfjhnnllpbmlh
@@ -127,10 +127,10 @@ Web content can easily be relocated or erased, with no guarantee that it will ha
 
 If you are going to use the Web for research, use some backup tools:
 
-- [Archive.is][archive.is] and [Perma.cc][perma.cc] to save Web pages (as well as, for the latter, PDF files)
-- [Pinboard-fu][pinboard-fu], to access the [Pinboard][pinboard] bookmark service via a keyboard shortcut
-- [Save It Offline][save-it-offline] and [Video DownloadHelper][video-downloadhelper] to save videos and audio/video streams
-- [Tumblr][tumblr], to publish all sorts of media to a blog
+- [Archive.is][archive.is] and [Perma.cc][perma.cc] to save Web pages (as well as, for the latter, PDF files).
+- [Pinboard-fu][pinboard-fu], to access the [Pinboard][pinboard] bookmark service via a keyboard shortcut.
+- [Save It Offline][save-it-offline] and [Video DownloadHelper][video-downloadhelper] to save videos and audio/video streams.
+- [Tumblr][tumblr], to publish all sorts of media to a blog.
 
 [wayback-machine]: https://archive.org/web/
 [archive.is]: https://archive.is/
