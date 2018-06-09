@@ -53,7 +53,7 @@ Tip #5 of ["10 Computing Tips and Tricks for Students"][computing-tricks-1-pdf]
 
 [dashlane]: https://www.dashlane.com/
 
-___N.B.___ Make sure to protect your password manager with a [long, random passphrase][xkcd-passphrase], and remember the following paragraph from Tip #5:
+___N.B.___ Remember to use different, complex passwords for every service that requires one, and make sure to protect your password manager with a [long, random passphrase][xkcd-passphrase]. Also remember the following paragraph from Tip #5:
 
 > Your passwords do not protect you against network attacks: _never_ log on to a sensitive website, such as one that stores your credit card details, from an insecure connexion like airport or hotel Wi-Fi.
 
